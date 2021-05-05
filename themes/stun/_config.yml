@@ -51,9 +51,9 @@ sougou_site_verification:
 # Select your icon name, see: https://fontawesome.com/icons
 menu:
   home: / || fas fa-home
-  archives: /archives/ || fas fa-folder-open
-  categories: /categories/ || fas fa-layer-group
-  tags: /tags/ || fas fa-tags
+  archives: /blog/archives/ || fas fa-folder-open
+  categories: /blog/categories/ || fas fa-layer-group
+  tags: /blog/tags/ || fas fa-tags
   # You can add a secondary menu like follow.
   # xxx1: javascript:; || fa(s|r|l|d|b) fa-xxx
 
